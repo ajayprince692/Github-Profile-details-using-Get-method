@@ -1,0 +1,1 @@
+Fetching user details from GitHub using GET method
